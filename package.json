@@ -1,0 +1,26 @@
+{
+  "name": "002-gerenciador-de-pedido-lanchonete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghosthiils/002-Gerenciador-de-Pedido-Lanchonete.git"
+  },
+  "keywords": [],
+  "author": "Luiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghosthiils/002-Gerenciador-de-Pedido-Lanchonete/issues"
+  },
+  "homepage": "https://github.com/Ghosthiils/002-Gerenciador-de-Pedido-Lanchonete#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
